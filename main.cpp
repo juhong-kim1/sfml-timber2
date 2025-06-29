@@ -1,72 +1,46 @@
-#include <SFML/Graphics.hpp>
-#include <SFML/Audio.hpp>
-#include "InputMgr.h"
-#include "ResourceMgr.h"
-#include <iostream>
-#include <vector>
+#include "stdafx.h"
+#include "SpriteGo.h"
+#include "TextGo.h"
+#include "SceneGame.h"
 
 int main()
 {
+    sf::RenderWindow window(sf::VideoMode(1280, 720), "SFML works!");
+    
+    std::vector<std::string> texIds = {
+        "graphics/player.png",
+        "graphics/background.png"
+    };
+    TEXTURE_MGR.Load(texIds);
+    FONT_MGR.Load("fonts/KOMIKAP_.ttf");
 
-    sf::RenderWindow window(sf::VideoMode(1920, 1080), "SFML works!");
-    sf::CircleShape shape(100.f);
-    shape.setFillColor(sf::Color::Green);
-
-    ResourceMgr<sf::Texture>::Instance().Load({ "graphics/player.png",
-        "graphics/bee.png",
-        "graphics/tree.png",
-        "graphics/background.png" }
-    );
-
-
-
-    sf::Sprite sprite;
-
-    sprite.setTexture(ResourceMgr<sf::Texture>::Instance().Get( "graphics/player.png"));
+    SceneGame sceneGame;
+    sceneGame.Init();
+    sceneGame.Enter();
 
     while (window.isOpen())
     {
         InputMgr::Clear();
 
-        //Event
         sf::Event event;
-
         while (window.pollEvent(event))
         {
-
             if (event.type == sf::Event::Closed)
                 window.close();
             InputMgr::UpdateEvent(event);
-
         }
 
-
-        //update
+        // Update
         InputMgr::Update(0.f);
 
-        if (InputMgr::GetKeyDown(sf::Keyboard::A))
-        {
-            std::cout << "Key Down: A" << std::endl;
-        }
+        sceneGame.Update(0.f);
 
-        if (InputMgr::GetKeyUp(sf::Keyboard::A))
-        {
-            std::cout << "Key Up: A" << std::endl;
-        }
-
-        if (InputMgr::GetKey(sf::Keyboard::A))
-        {
-            std::cout << "Key Held: A" << std::endl;
-        }
-
-
-
-        //draw
+        // Draw
         window.clear();
-        window.draw(shape);
-        window.draw(sprite);
+        sceneGame.Draw(window);
         window.display();
     }
 
+    sceneGame.Release();
     return 0;
 }

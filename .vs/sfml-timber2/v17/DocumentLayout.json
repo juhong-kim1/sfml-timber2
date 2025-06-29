@@ -11,16 +11,20 @@
       "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:InputMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:Defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\ResourceMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:ResourceMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\InputMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:InputMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Defines.h",
+              "DocumentMoniker": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Defines.h",
+              "RelativeDocumentMoniker": "Defines.h",
+              "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Defines.h",
+              "RelativeToolTip": "Defines.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-29T02:27:32.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\GameObject.h",
+              "RelativeDocumentMoniker": "GameObject.h",
+              "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\GameObject.h",
+              "RelativeToolTip": "GameObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-29T02:24:31.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\GameObject.cpp",
+              "RelativeDocumentMoniker": "GameObject.cpp",
+              "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\GameObject.cpp",
+              "RelativeToolTip": "GameObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-29T02:24:23.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\stdafx.h",
+              "RelativeDocumentMoniker": "stdafx.h",
+              "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\stdafx.h",
+              "RelativeToolTip": "stdafx.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-29T02:22:19.892Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -40,48 +96,9 @@
               "RelativeDocumentMoniker": "InputMgr.cpp",
               "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\InputMgr.cpp",
               "RelativeToolTip": "InputMgr.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-28T10:45:00.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Singleton.h",
-              "DocumentMoniker": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Singleton.h",
-              "RelativeDocumentMoniker": "Singleton.h",
-              "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Singleton.h",
-              "RelativeToolTip": "Singleton.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-28T10:45:00.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ResourceMgr.h",
-              "DocumentMoniker": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\ResourceMgr.h",
-              "RelativeDocumentMoniker": "ResourceMgr.h",
-              "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\ResourceMgr.h",
-              "RelativeToolTip": "ResourceMgr.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-28T10:44:59.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "InputMgr.h",
-              "DocumentMoniker": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\InputMgr.h",
-              "RelativeDocumentMoniker": "InputMgr.h",
-              "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\InputMgr.h",
-              "RelativeToolTip": "InputMgr.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-28T10:44:59.05Z",
+              "WhenOpened": "2025-06-29T02:22:11.661Z",
               "EditorCaption": ""
             },
             {
@@ -92,7 +109,7 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-28T10:42:34.11Z",
               "EditorCaption": ""

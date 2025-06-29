@@ -1,17 +1,11 @@
 #pragma once
-#include <list>
-#include <SFML/Window/Event.hpp>
-#include <algorithm>
-#include <iostream>
-
-
 
 class InputMgr
 {
 private:
-	static std::list<sf::Keyboard::Key> downkeys;
-	static std::list<sf::Keyboard::Key> heldkeys;
-	static std::list<sf::Keyboard::Key> upkeys;
+	static std::list<sf::Keyboard::Key> downKeys;
+	static std::list<sf::Keyboard::Key> heldKeys;
+	static std::list<sf::Keyboard::Key> upKeys;
 
 public:
 	static void Init();
@@ -26,7 +20,5 @@ public:
 
 	static bool Contains(const std::list<sf::Keyboard::Key>& list, sf::Keyboard::Key key);
 	static void Remove(std::list<sf::Keyboard::Key>& list, sf::Keyboard::Key key);
-
-
 };
 
