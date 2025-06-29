@@ -1,9 +1,2 @@
-﻿  GameObject.cpp
-  InputMgr.cpp
-  Scene.cpp
-  SpriteGo.cpp
-  stdafx.cpp
-  TextGo.cpp
-  Utils.cpp
-  코드를 생성하고 있습니다...
+﻿  main.cpp
   sfml-timber2.vcxproj -> C:\Users\wnghd\OneDrive\바탕 화면\깃허브\sfml-timber2-bin\sfml-timber2-d.exe
