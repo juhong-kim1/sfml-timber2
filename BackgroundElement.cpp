@@ -10,20 +10,29 @@ void BackgroundElement::SetSide(Sides side)
 {
 	sf::FloatRect bounds = FRAMEWORK.GetWindowBounds();
 
+	float y = (name == "bee") ? 750.f : Utils::RandRange(100.f, 400.f);
+
 	switch (side)
 	{
 	case Sides::Left:
 		direction = { 1.f, 0.f };
 		SetScale({ -1.f, 1.f });
-		SetPosition({ -150.f, Utils::RandRange(200.f, 900.f)});
+		SetPosition({ -150.f, y});
 		break;
 	case Sides::Right:
 		direction = { -1.f, 0.f };
 		SetScale({ 1.f, 1.f });
-		SetPosition({ bounds.width + 150.f, 0.f });
+		SetPosition({ bounds.width + 150.f, y });
 		break;
 	}
-	speed = Utils::RandRange(200.f, 500.f);
+	if (name == "bee")
+	{
+		speed = Utils::RandRange(400.f, 600.f);
+	}
+	else
+	{
+		speed = Utils::RandRange(200.f, 400.f);
+	}
 }
 
 void BackgroundElement::Reset()
@@ -41,7 +50,6 @@ void BackgroundElement::Reset()
 		SetSide(Sides::Right);
 	}
 
-	SetPosition({ Utils::RandRange(200.f, 900.f), Utils::RandRange(200.f, 900.f) });
 }
 
 void BackgroundElement::Update(float dt)

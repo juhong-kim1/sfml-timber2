@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\",
+  "WorkspaceRootPath": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\BackgroundElement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\BackgroundElement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:BackgroundElement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\BackgroundElement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\BackgroundElement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:BackgroundElement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\Framework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:Framework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\Framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:Framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\Defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:Defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Framework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:Framework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:Framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1F013A3B-0FFA-43C9-9417-EE3FF20C654D}|sfml-timber2.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -38,29 +42,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\main.cpp",
+              "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\main.cpp",
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-30T01:51:59.978Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SceneGame.cpp",
+              "DocumentMoniker": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\SceneGame.cpp",
+              "RelativeDocumentMoniker": "SceneGame.cpp",
+              "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\SceneGame.cpp",
+              "RelativeToolTip": "SceneGame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-30T13:46:40.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Framework.cpp",
-              "DocumentMoniker": "C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\Framework.cpp",
+              "DocumentMoniker": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Framework.cpp",
               "RelativeDocumentMoniker": "Framework.cpp",
-              "ToolTip": "C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\Framework.cpp",
+              "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Framework.cpp",
               "RelativeToolTip": "Framework.cpp",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -69,26 +85,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Framework.h",
-              "DocumentMoniker": "C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\Framework.h",
+              "DocumentMoniker": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Framework.h",
               "RelativeDocumentMoniker": "Framework.h",
-              "ToolTip": "C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\Framework.h",
+              "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Framework.h",
               "RelativeToolTip": "Framework.h",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-30T01:57:31.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T01:57:31.728Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BackgroundElement.cpp",
-              "DocumentMoniker": "C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\BackgroundElement.cpp",
+              "DocumentMoniker": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\BackgroundElement.cpp",
               "RelativeDocumentMoniker": "BackgroundElement.cpp",
-              "ToolTip": "C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\BackgroundElement.cpp",
-              "RelativeToolTip": "BackgroundElement.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\BackgroundElement.cpp*",
+              "RelativeToolTip": "BackgroundElement.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-30T04:47:09.741Z",
               "EditorCaption": ""
@@ -97,9 +112,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BackgroundElement.h",
-              "DocumentMoniker": "C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\BackgroundElement.h",
+              "DocumentMoniker": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\BackgroundElement.h",
               "RelativeDocumentMoniker": "BackgroundElement.h",
-              "ToolTip": "C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\BackgroundElement.h",
+              "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\BackgroundElement.h",
               "RelativeToolTip": "BackgroundElement.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -108,11 +123,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Utils.cpp",
-              "DocumentMoniker": "C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\Utils.cpp",
+              "DocumentMoniker": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Utils.cpp",
               "RelativeDocumentMoniker": "Utils.cpp",
-              "ToolTip": "C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\Utils.cpp",
+              "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Utils.cpp",
               "RelativeToolTip": "Utils.cpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -121,11 +136,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Defines.h",
-              "DocumentMoniker": "C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\Defines.h",
+              "DocumentMoniker": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Defines.h",
               "RelativeDocumentMoniker": "Defines.h",
-              "ToolTip": "C:\\Users\\KGA\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uAE43\\sfml-timber2\\Defines.h",
+              "ToolTip": "C:\\Users\\wnghd\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAE43\uD5C8\uBE0C\\sfml-timber2\\Defines.h",
               "RelativeToolTip": "Defines.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",

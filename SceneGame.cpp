@@ -20,12 +20,16 @@ void SceneGame::Init()
     texIds.push_back("graphics/cloud.png");
     texIds.push_back("graphics/tree.png");
     texIds.push_back("graphics/branch.png");
+    texIds.push_back("graphics/bee.png");
 
     AddGameObject(new SpriteGo("graphics/background.png"));
     
-    auto element = (BackgroundElement*)AddGameObject(new BackgroundElement("graphics/cloud.png"));
-    element->speed = 100.f;
-    element->direction = { 1.f, 0.f };
+    for (int i = 0; i < 3; ++i)
+    {
+        auto cloud = (BackgroundElement*)AddGameObject(new BackgroundElement("graphics/cloud.png", "cloud"));
+    }
+
+    auto bee = (BackgroundElement*)AddGameObject(new BackgroundElement("graphics/bee.png", "bee"));
 
     AddGameObject(new Tree());
 
