@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BackgroundElement.h" />
     <ClInclude Include="Defines.h" />
     <ClInclude Include="Framework.h" />
     <ClInclude Include="GameObject.h" />
@@ -33,9 +34,11 @@
     <ClInclude Include="SpriteGo.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="TextGo.h" />
+    <ClInclude Include="Tree.h" />
     <ClInclude Include="Utils.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BackgroundElement.cpp" />
     <ClCompile Include="Framework.cpp" />
     <ClCompile Include="GameObject.cpp" />
     <ClCompile Include="InputMgr.cpp" />
@@ -48,6 +51,7 @@
     <ClCompile Include="SpriteGo.cpp" />
     <ClCompile Include="stdafx.cpp" />
     <ClCompile Include="TextGo.cpp" />
+    <ClCompile Include="Tree.cpp" />
     <ClCompile Include="Utils.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

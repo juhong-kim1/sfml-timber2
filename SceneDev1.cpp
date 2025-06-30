@@ -15,8 +15,6 @@ void SceneDev1::Init()
 	go->SetString("Dev 1");
 	go->SetCharacterSize(30);
 	go->SetFillColor(sf::Color::White);
-	go->SetPosition({ 640.f, 360.f });
-	go->SetOrigin(Origins::MC);
 	AddGameObject(go);
 
 	Scene::Init();

@@ -1,9 +1,11 @@
-#include "Framework.h"
 #include "stdafx.h"
+#include "Framework.h"
 
 void Framework::Init(int w, int h, const std::string& t)
 {
-	window.create(sf::VideoMode(w,h), t);
+	window.create(sf::VideoMode(w, h), t);
+
+    // texIds, fontIds, soundIds
 
 	TEXTURE_MGR.Load(texIds);
 	FONT_MGR.Load(fontIds);
@@ -18,13 +20,12 @@ void Framework::Do()
     while (window.isOpen())
     {
         sf::Time dt = clock.restart();
-        realDeltaTime =deltaTime = dt.asSeconds();
+        realDeltaTime = deltaTime = dt.asSeconds();
         deltaTime *= timeScale;
         time += deltaTime;
         realTime = realDeltaTime;
 
         InputMgr::Clear();
-
         sf::Event event;
         while (window.pollEvent(event))
         {
@@ -33,8 +34,9 @@ void Framework::Do()
             InputMgr::UpdateEvent(event);
         }
 
-        // Update
         InputMgr::Update(deltaTime);
+
+        // Update
         SCENE_MGR.Update(deltaTime);
 
         // Draw

@@ -57,17 +57,9 @@ void SpriteGo::Reset()
 
 void SpriteGo::Update(float dt)
 {
-	if (InputMgr::GetKeyDown(sf::Keyboard::Left))
-	{
-		SetPosition({ 0.f, 0.f });
-	}
-
-	if (InputMgr::GetKeyDown(sf::Keyboard::Right))
-	{
-		SetPosition({ 500.f, 500.f });
-	}
 
 }
+
 
 void SpriteGo::Draw(sf::RenderWindow& window)
 {

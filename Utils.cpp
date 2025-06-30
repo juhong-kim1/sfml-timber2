@@ -1,5 +1,39 @@
 #include "stdafx.h"
 #include "Utils.h"
+#include <ctime>
+#include <cstdlib>
+
+void Utils::Init()
+{
+    srand((int)time(0));
+}
+
+
+//random
+inline float Utils::RandValue()
+{
+    Init();
+
+    float value = (float)rand() / RAND_MAX;
+
+    return value;
+}
+
+int Utils::RandRange(int min, int max)
+{
+    Init();
+
+    int range = rand() % ((max - min) + min);
+
+    std::cout << range << std::endl;;
+
+    return range;
+}
+
+float Utils::RandRange(float min, float max)
+{
+    return 0.0;
+}
 
 sf::Vector2f Utils::SetOrigin(sf::Transformable& obj, Origins preset, const sf::FloatRect rect)
 {

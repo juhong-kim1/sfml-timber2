@@ -2,6 +2,8 @@
 #include "SceneGame.h"
 #include "SpriteGo.h"
 #include "TextGo.h"
+#include "BackgroundElement.h"
+#include "Tree.h"
 
 SceneGame::SceneGame()
 	: Scene(SceneIds::Game)
@@ -14,21 +16,18 @@ SceneGame::~SceneGame()
 
 void SceneGame::Init()
 {
-    texIds.push_back("graphics/player.png");
-    fontIds.push_back("fonts/KOMIKAP_.ttf");
+    texIds.push_back("graphics/background.png");
+    texIds.push_back("graphics/cloud.png");
+    texIds.push_back("graphics/tree.png");
+    texIds.push_back("graphics/branch.png");
 
-    SpriteGo* spriteGo = new SpriteGo("graphics/player.png");
-    spriteGo->SetOrigin(Origins::ML);
+    AddGameObject(new SpriteGo("graphics/background.png"));
+    
+    auto element = (BackgroundElement*)AddGameObject(new BackgroundElement("graphics/cloud.png"));
+    element->speed = 100.f;
+    element->direction = { 1.f, 0.f };
 
-    TextGo* textGo = new TextGo("fonts/KOMIKAP_.ttf");
-    textGo->SetString("Hello SFML!");
-    textGo->SetCharacterSize(30);
-    textGo->SetFillColor(sf::Color::White);
-    textGo->SetPosition({ 640.f, 360.f });
-    textGo->SetOrigin(Origins::MC);
-
-    AddGameObject(spriteGo);
-    AddGameObject(textGo);
+    AddGameObject(new Tree());
 
     Scene::Init();
 }
