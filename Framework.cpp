@@ -3,6 +3,7 @@
 
 void Framework::Init(int w, int h, const std::string& t)
 {
+    Utils::Init();
 	window.create(sf::VideoMode(w, h), t);
 
     // texIds, fontIds, soundIds

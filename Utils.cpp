@@ -10,9 +10,8 @@ void Utils::Init()
 
 
 //random
-inline float Utils::RandValue()
+float Utils::RandValue()
 {
-    Init();
 
     float value = (float)rand() / RAND_MAX;
 
@@ -21,18 +20,17 @@ inline float Utils::RandValue()
 
 int Utils::RandRange(int min, int max)
 {
-    Init();
 
-    int range = rand() % ((max - min) + min);
-
-    std::cout << range << std::endl;;
-
+    int range = rand() % (max - min) + min;
+    std::cout << range << std::endl;
     return range;
 }
 
 float Utils::RandRange(float min, float max)
 {
-    return 0.0;
+    float range = ((float)rand() / RAND_MAX)* (max - min) + min;
+
+    return range;
 }
 
 sf::Vector2f Utils::SetOrigin(sf::Transformable& obj, Origins preset, const sf::FloatRect rect)

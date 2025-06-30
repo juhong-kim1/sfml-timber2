@@ -15,7 +15,7 @@ void BackgroundElement::SetSide(Sides side)
 	case Sides::Left:
 		direction = { 1.f, 0.f };
 		SetScale({ -1.f, 1.f });
-		SetPosition({ -150.f, 0.f });
+		SetPosition({ -150.f, Utils::RandRange(200.f, 900.f)});
 		break;
 	case Sides::Right:
 		direction = { -1.f, 0.f };
@@ -23,7 +23,7 @@ void BackgroundElement::SetSide(Sides side)
 		SetPosition({ bounds.width + 150.f, 0.f });
 		break;
 	}
-	speed = 200.f;
+	speed = Utils::RandRange(200.f, 500.f);
 }
 
 void BackgroundElement::Reset()
@@ -31,8 +31,17 @@ void BackgroundElement::Reset()
 	SpriteGo::Reset();
 
 	SetOrigin(Origins::MC);
-	SetSide(Sides::Right);
-	SetPosition({ 500.f, 0.f });
+
+	if (Utils::RandValue() > 0.5f)
+	{
+		SetSide(Sides::Left);
+	}
+	else
+	{
+		SetSide(Sides::Right);
+	}
+
+	SetPosition({ Utils::RandRange(200.f, 900.f), Utils::RandRange(200.f, 900.f) });
 }
 
 void BackgroundElement::Update(float dt)
@@ -42,8 +51,16 @@ void BackgroundElement::Update(float dt)
 	SetPosition(pos);
 
 	sf::FloatRect bounds = FRAMEWORK.GetWindowBounds();
+
 	if (pos.x < -200.f || pos.x > bounds.width + 200.f)
 	{
-		SetSide(Sides::Right);
+		if (Utils::RandValue() > 0.5f)
+		{
+			SetSide(Sides::Left);
+		}
+		else
+		{
+			SetSide(Sides::Right);
+		}
 	}
 }

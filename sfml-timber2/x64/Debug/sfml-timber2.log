@@ -1,3 +1,2 @@
-﻿  Tree.cpp
-C:\Users\KGA\OneDrive\바탕 화면\게임 깃\sfml-timber2\Tree.cpp(15,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  BackgroundElement.cpp
   sfml-timber2.vcxproj -> C:\Users\KGA\OneDrive\바탕 화면\게임 깃\sfml-timber2-bin\sfml-timber2-d.exe
